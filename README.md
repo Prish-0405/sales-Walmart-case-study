@@ -12,6 +12,6 @@ Target:
 10.	Perform KPI (Key performance indicators) to show the sales trend axis
 These are tagets for this project
 for further details or suggestions
-email id: faizatanveer4170@gmail.com
+email id: priyanshisharma0405@gmail.com
 With Love and Coffee
-Faiza Tanveer
+Priyanshi Sharma
